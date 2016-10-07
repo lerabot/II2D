@@ -1,0 +1,6 @@
+ii2d.exe - the MSDOS complied program that most of you want
+readme.txt - even if you think you know it all, read the first
+ii2d.c - main source file, should complie on most file systems
+ii2d_HEADER.h - header file needed to make the ii2d project
+asciidump.c - source to the program that created the header file, included for the currious
+filelist.txt - this file, dummy
